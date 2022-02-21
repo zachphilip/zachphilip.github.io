@@ -4,9 +4,9 @@ I will be posting papers as I go along, with an eventual emphasis on the interse
 
 **Spring 2022**
 
-This spring, my only philosophy class is Intro to Logic, which doesn't involve too many papers. Check back next semester.
+[Epicurean and Stoic Views of the Divine and Resurrection] (https://docs.google.com/document/d/1tm9HlAg-ohoZlI60SQ9O9E2qOinaZnuS5yxI8WCRbbA/edit?usp=sharing)
 
 **Fall 2021**
 
-PHIL 101 midterm paper: [evaluation of Glaucon's view of justice in Book II of the Republic](https://docs.google.com/document/d/1UGpV75qY1NKw7auDt25fCovtOkKyZzk-/edit?usp=sharing&ouid=102486413588053825109&rtpof=true&sd=true)
+PHIL 101 midterm paper: [summary and evaluation of Glaucon's view of justice in Book II of the Republic](https://docs.google.com/document/d/1UGpV75qY1NKw7auDt25fCovtOkKyZzk-/edit?usp=sharing&ouid=102486413588053825109&rtpof=true&sd=true)
 
