@@ -4,7 +4,7 @@ I will be posting papers as I go along, with an eventual emphasis on the interse
 
 **Spring 2022**
 
-[Epicurean and Stoic Views of the Divine and Resurrection] (https://docs.google.com/document/d/1tm9HlAg-ohoZlI60SQ9O9E2qOinaZnuS5yxI8WCRbbA/edit?usp=sharing)
+[Epicurean and Stoic Views of the Divine and Resurrection](https://docs.google.com/document/d/1tm9HlAg-ohoZlI60SQ9O9E2qOinaZnuS5yxI8WCRbbA/edit?usp=sharing)
 
 **Fall 2021**
 
