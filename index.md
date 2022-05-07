@@ -4,6 +4,8 @@ I am broadly interested in philosophy, theology, and medicine and will be postin
 
 **Spring 2022**
 
+[Acts 17:16-34 as a Model for Evangelistic Engagement with Philosophy](https://docs.google.com/document/d/1GneBbJqTSqWNREOuVp7exc2az54F5MPw0FyphPYAjY0/edit?usp=sharing) For BITH 213 (New Testament Literature & Interpretation). Final paper examining St. Paul's engagement with Greco-Roman philosophy and applying his message as a model for modern Christian engagement with philosophy, with a discussion of the limitations of this approach. 
+
 [Epicurean and Stoic Views of the Divine and Resurrection](https://docs.google.com/document/d/1tm9HlAg-ohoZlI60SQ9O9E2qOinaZnuS5yxI8WCRbbA/edit?usp=sharing) For BITH 213 (New Testament Literature & Interpretation). Chosen as the example paper for next semester's class. 
 
 [Much Ado About Nothing Scene Analysis](https://docs.google.com/document/d/1Q_aeP9QQ2jORBRAYw2Hy9phHHK-L7QUzoo64f72SjLg/edit?usp=sharing). For ENGL 112 (Studies in Western Literature: Comedy and Tragedy). Short paper comparing choices and effects from Beatrice's and Benedick's dialogue in Act 1 of _Much Ado_ in the Branagh and Whedon films.
