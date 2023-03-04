@@ -1,6 +1,10 @@
-## I am a first-year philosophy student at Wheaton College.
+## I am a second-year philosophy student at Wheaton College (IL).
 
-I am broadly interested in philosophy, theology, and medicine and will be posting papers as I go along. At this point, the papers listed below are work done for introductory-level English, history, and philosophy classes. 
+**Fall 2022**
+
+[Augustine’s Otherworldly Happiness](https://docs.google.com/document/d/11Lvi6FZG_0j34ON5ygyDdCVwqWpyCG2sdguIwOHrW8g/edit?usp=sharing). For PHIL 311 (History of Philosophy: Ancient & Medieval). Final paper analyzing Augustine's view on happiness, and defending it, e.g., against L. A. Paul's potential "blind leap" objection.
+
+[The “Delightful Drama” of Exchange in Luther’s Freedom of a Christian](https://docs.google.com/document/d/1wWT00AZDPhzWyEl_Q3aZlPfX8fGhcE_VroLWYqh_2Vo/edit?usp=sharing). For BITH 372 (Historical Theology). Final paper presenting and defending Luther's language of the exchange between the soul and Christ.
 
 **Spring 2022**
 
