@@ -1,5 +1,11 @@
 ## I am a second-year philosophy student at Wheaton College (IL).
 
+**Spring 2023**
+
+[St. Thomas & The Thomas Christians](https://docs.google.com/document/d/1uC3S-51Grevd51wDOn4DxWr3LhaqfmscS5Eb6pJ2zfI/edit?usp=sharing). For ART 352 (Medieval & Byzantine Art). Final paper that (1) presented and defended the idea that Thomas the Apostle personally evangelized India; and (2) considered the heritage of the Thomas Christians, discussing what it means for Thomas Christians to be—and a possible limitation of being—'Hindu in culture, Christian in faith, and Syrian in polity, rituals and doctrines.' 
+
+[Summary and evaluation of C. S. Lewis's _Problem of Pain_ Ch. 1-5](https://docs.google.com/document/d/10l8Pba7OTAIZGdeKUuwJU3B9YJSUl8aT1TP8oGvtQM0/edit?usp=sharing). For PHIL 241 (Suffering). Midterm paper presenting and analyzing Lewis's presentation and proposed solution to the problem of pain. Highest score in class; used as example paper. Professor comments: "This is a very nice piece of work. You make virtually no significant missteps in recapitulating Lewis’s line of reasoning, and you have obviously profited from the classroom discussion. I’ve made small emendations to your wording where I think they improve your claims."
+
 **Fall 2022**
 
 [Augustine’s Otherworldly Happiness](https://docs.google.com/document/d/11Lvi6FZG_0j34ON5ygyDdCVwqWpyCG2sdguIwOHrW8g/edit?usp=sharing). For PHIL 311 (History of Philosophy: Ancient & Medieval). Final paper analyzing Augustine's view on happiness, and defending it, e.g., against L. A. Paul's potential "blind leap" objection.
@@ -12,7 +18,6 @@
 
 [Epicurean and Stoic Views of the Divine and Resurrection](https://docs.google.com/document/d/1tm9HlAg-ohoZlI60SQ9O9E2qOinaZnuS5yxI8WCRbbA/edit?usp=sharing) For BITH 213 (New Testament Literature & Interpretation). Chosen as the example paper for next semester's class. 
 
-[Much Ado About Nothing Scene Analysis](https://docs.google.com/document/d/1Q_aeP9QQ2jORBRAYw2Hy9phHHK-L7QUzoo64f72SjLg/edit?usp=sharing). For ENGL 112 (Studies in Western Literature: Comedy and Tragedy). Short paper comparing choices and effects from Beatrice's and Benedick's dialogue in Act 1 of _Much Ado_ in the Branagh and Whedon films.
 
 **Fall 2021**
 
