@@ -1,4 +1,9 @@
-## I am a second-year philosophy student at Wheaton College (IL).
+## I am a third-year philosophy student at Wheaton College (IL).
+**Fall 2023**
+
+[Truth, Consolation, and Active Love in the Lives of Zosima and Don Manuel](https://docs.google.com/document/d/1mXTPFtjOq9zO652_urGYSl47ikWVXGVjMN-WFlgbUUw/edit?usp=sharing). For CORE 372 (Existentialism). Midterm paper that compared Zosima's (from the Brothers Karamazov) and Don Manuel's (from Saint Manuel Bueno, Martyr) conception of the nature and role of active love.  
+
+[The Unique Identity Formation of the Cochin Jews and Thomas Christians](https://docs.google.com/document/d/1_tkSqOJdrMoFsGge_eRrLC_xSeLLjtNdrZCBtLHKdtc/edit?usp=sharing). For RELI 356 (The Jewish Tradition). Final paper that (1) discussed the experience of the Cochin Jews in India as 'fully Indian and fully Jewish,' with particular attention to what made India and Hinduism hospitable to Jews and how Jews balanced halakhah with cultural assimilation; (2) considered  parallels with the Thomas Christians; and (3) expanded on the insularity of these communities (which was in tension with their faiths), proposing a possible answer.
 
 **Spring 2023**
 
