@@ -1,5 +1,9 @@
 ## I'm a junior philosophy major at Wheaton College (IL).
 
+I'm using this page, first, as a sort of barebones blog, and, second, to keep papers that I've wrote organized. (Functionally, it's just a bunch of links to Google Docs.)
+
+**Non-Academic Writing**
+
 **Fall 2023**
 
 [Truth, Consolation, and Active Love in the Lives of Zosima and Don Manuel](https://docs.google.com/document/d/1mXTPFtjOq9zO652_urGYSl47ikWVXGVjMN-WFlgbUUw/edit?usp=sharing). For CORE 372 (Existentialism). Midterm paper that compared Zosima's (from the Brothers Karamazov) and Don Manuel's (from Saint Manuel Bueno, Martyr) conception of the nature and role of active love.  
