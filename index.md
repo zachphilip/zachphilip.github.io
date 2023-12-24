@@ -1,6 +1,10 @@
+Merry Christmas! We have reason to say that it's all going to be okay.
+
 ## I'm a junior philosophy major at Wheaton College (IL).
 
-I'm using this page, first, as a sort of barebones blog, and, second, to keep papers that I've wrote organized. (Functionally, it's just a bunch of links to Google Docs.)
+I'm using this page, first, as a sort of barebones blog, and, second, to keep papers that I've written organized. (Functionally, it's just a bunch of links to Google Docs.) 
+
+If you'd like to get in touch, feel free to email me at zach.philip@my.wheaton.edu 
 
 **Non-Academic Writing**
 
