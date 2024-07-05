@@ -5,6 +5,7 @@ If you'd like to get in touch, feel free to email me at zach.philip@my.wheaton.e
 **Academic Writing**
 
 *Spring 2024*
+
 [A Mystic for Us Protestants? Bernard of Clairvaux Through the Eyes of Martin Luther](https://docs.google.com/document/d/1kgaCppqGXMYJwL_EkLmS906bXEVitMjIVjRMOUQMc5E/edit?usp=sharing). For PHIL 455 (Medieval Mysticism). Final paper that described continuity between Bernard and Luther, proposing a role for mysticism that accords with historic Protestant theology.
 
 *Fall 2023*
