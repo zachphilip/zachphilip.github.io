@@ -1,14 +1,11 @@
-Merry Christmas! We have reason to say that it's all going to be okay.
-
-## I'm a junior philosophy major at Wheaton College (IL).
-
-I'm using this page, first, as a sort of barebones blog, and, second, to keep papers that I've written organized. (Functionally, it's just a bunch of links to Google Docs.) 
+## I'm a rising senior at Wheaton College (IL) studying philosophy.
 
 If you'd like to get in touch, feel free to email me at zach.philip@my.wheaton.edu 
 
-**Non-Academic Writing**
-
 **Academic Writing**
+
+*Spring 2024*
+[A Mystic for Us Protestants? Bernard of Clairvaux Through the Eyes of Martin Luther](https://docs.google.com/document/d/1kgaCppqGXMYJwL_EkLmS906bXEVitMjIVjRMOUQMc5E/edit?usp=sharing). For PHIL 455 (Medieval Mysticism). Final paper that described continuity between Bernard and Luther, proposing a role for mysticism that accords with historic Protestant theology.
 
 *Fall 2023*
 
