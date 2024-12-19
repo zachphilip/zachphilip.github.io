@@ -4,6 +4,13 @@ If you'd like to get in touch, feel free to email me at zach.philip@my.wheaton.e
 
 **Academic Writing**
 
+*Fall 2024*
+
+[An Environmental Justice Approach to the Rural Wastewater Crisis](https://docs.google.com/document/d/1_beSmVneIflzhu7ZZxabJqQOzPwl94wGL1Z4RS5zf1Y/edit?usp=sharing). For PHIL 305 
+(Environmental Ethics). Brief final paper that applied an environmental justice approach to the wastewater infrastructure crisis in U.S. rural, low-income, and minority communities. 
+[The Sacramental Potential and Pitfalls of Modern Worship Music](https://docs.google.com/document/d/1UNKPV8HHCB4LZ-gf2-cx_SeIHyFpGDdp-btzZoRpQV0/edit?usp=sharing). For BITH 393 (Sacraments). Final paper that argued for the surprising sacramental potential of modern worship music, while ultimately arguing against the form as such.
+
+[How Christians Should Think About Well-Being: Reconciling the Beatitudes and Objective List Theory](https://docs.google.com/document/d/1vvG1vYGOhQFgpu96MMxFh19gZOW6qslCW7XeiK9HlEk/edit?usp=sharing). For PHIL 494 (Philosophy Senior Seminar). Final paper that argued for a reading of the Beatitudes as meaningfully about well-being, and sought to reconcile the Beatitudes with objective list theory.
 *Spring 2024*
 
 [A Mystic for Us Protestants? Bernard of Clairvaux Through the Eyes of Martin Luther](https://docs.google.com/document/d/1kgaCppqGXMYJwL_EkLmS906bXEVitMjIVjRMOUQMc5E/edit?usp=sharing). For PHIL 455 (Medieval Mysticism). Final paper that described continuity between Bernard and Luther, proposing a role for mysticism that accords with historic Protestant theology.
