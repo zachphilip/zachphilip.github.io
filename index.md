@@ -1,4 +1,4 @@
-## I'm a rising senior at Wheaton College (IL) studying philosophy.
+## I'm a senior at Wheaton College (IL) studying philosophy.
 
 If you'd like to get in touch, feel free to email me at zach.philip@my.wheaton.edu 
 
