@@ -1,6 +1,11 @@
-<html>
-<body>
-<h1>Hello, Noah. I thought you'd like this song, especially toward the second half, with the drum solo.</h1>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2cgNpsfZcBzdgeNPEeCnue?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</body>
-</html>
+function showHtmlDialog() {
+  var htmlOutput = HtmlService.createHtmlOutput(`
+    <html>
+    <body>
+      <h1>Hello, Noah. I thought you'd like this song, especially toward the second half, with the drum solo.</h1>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2cgNpsfZcBzdgeNPEeCnue?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </body>
+    </html>
+  `).setWidth(600).setHeight(400);
+  SlidesApp.getUi().showModalDialog(htmlOutput, 'Spotify Song');
+}
