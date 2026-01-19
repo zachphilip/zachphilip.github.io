@@ -1,6 +1,12 @@
-## I'm a senior at Wheaton College (IL) studying philosophy.
+I graduated from Wheaton College (Class of '25) with a BA in philosophy and am now a first-year dental student at the University of Minnesota. I started this website to host some of what I wrote while at Wheaton because, before I chose to be a dentist instead, I was interested in academia and thought that this could be good for grad school applications. Alas, I'm still keeping it up because all those Wheaton classes and papers, unlike all of my dental school classes, played such a major role in being formed those four years academically, as well as spiritually and personally.
 
-If you'd like to get in touch, feel free to email me at zach.philip@my.wheaton.edu 
+If you'd like to get in touch, feel free to email me at phili319@umn.edu. 
+
+**Wheaton Record**
+
+[India's Saint Thomas Christians: Learn from the two thousand-year-old Indian Christian church](https://docs.google.com/document/d/1JBWDzj-bQzP3g7WuqeoZxVEMsns_biA8OWApwGIghAU/edit?usp=sharing). [Wheaton Record link](https://thewheatonrecord.com/2025/03/21/indias-st-thomas-christians/)
+
+[The God Who Runs to Embrace: A student chaplain shares why the parable of the prodigal son shakes up stale views of God’s compassion](https://docs.google.com/document/d/e/2PACX-1vQBrmCxlq55XsNEMhU97xztSb6fHSjapejW3J3JuO_2yFu83Xco8QAo1fLI1W5R6LbutKzcsrZHL-wQ/pub). [Wheaton Record link](https://thewheatonrecord.com/2025/02/23/god-who-runs-to-embrace/)
 
 **Academic Writing**
 
