@@ -8,6 +8,10 @@ If you'd like to get in touch, feel free to email me at phili319@umn.edu.
 
 [The God Who Runs to Embrace: A student chaplain shares why the parable of the prodigal son shakes up stale views of God’s compassion](https://docs.google.com/document/d/e/2PACX-1vQBrmCxlq55XsNEMhU97xztSb6fHSjapejW3J3JuO_2yFu83Xco8QAo1fLI1W5R6LbutKzcsrZHL-wQ/pub). [Wheaton Record link](https://thewheatonrecord.com/2025/02/23/god-who-runs-to-embrace/)
 
+**Science**
+
+[Antibiotic Resistance—A Poem](https://docs.google.com/document/d/e/2PACX-1vTysWcOKEGudrsbghUEIaQ0lmOpspbpaseetkh5RHQFV9UHyqrHOkkA3wTJQ-FKgCfMgFi5chjsaraJ/pub)
+
 **Academic Writing**
 
 *Fall 2024*
